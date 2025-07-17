@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: article
+    database: crack-will-422608-j1
+    schema: GroupProject
+    tables:
+      - name: article
